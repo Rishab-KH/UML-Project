@@ -1,2 +1,2 @@
 # UML_Project
-Ukraine Water Waste Management Project
+Water Waste Management Project
