@@ -1,2 +1,2 @@
-# UML_Project
+# USML Project
 Water Waste Management Project
